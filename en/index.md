@@ -1,0 +1,83 @@
+---
+layout: null
+lang: en
+title: RJP | Outdoor Living
+permalink: /en/
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RJP | Outdoor Living</title>
+  <meta name="description" content="RJP Outdoor Living: a premium online store in the making. We're looking for outdoor furniture and lifestyle brands for a long-term partnership.">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+
+  <header class="site">
+    <div class="wrap site-bar">
+      <a class="brand" href="{{ '/' | relative_url }}">RJP · OUTDOOR LIVING</a>
+      <div class="lang-switch">
+        <a href="{{ '/' | relative_url }}">Espa&ntilde;ol</a>
+      </div>
+    </div>
+  </header>
+
+  <div class="hero wrap">
+    <span class="lang-note">En inglés</span>
+    <img src="{{ '/assets/img/outdoor-living-en.png' | relative_url }}" alt="RJP Outdoor Living \u2014 premium outdoor living store project">
+    <p class="tagline">A premium online store dedicated to Outdoor Living is taking shape \u2014 and we're looking for the right suppliers to build it with.</p>
+  </div>
+
+  <section class="alt">
+    <div class="wrap">
+      <h2>The project</h2>
+      <p class="lead">
+        RJP.es brings together, under one online destination, a carefully curated selection of premium Outdoor Living products: outdoor furniture, textiles, lighting, garden accessories, and everything that turns an outdoor space into a true extension of the home. The store is being built on Shopify, with a curated rather than mass catalogue, and a clear focus on quality, design, and service.
+      </p>
+      <p class="lead">
+        We're in the launch phase and reaching out directly to a small number of manufacturers and distributors in and around Spain with whom we'd like to build a stable, long-term business relationship &mdash; not a one-off collaboration.
+      </p>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap">
+      <h2>Why partner with RJP</h2>
+      <div class="grid">
+        <div class="card">
+          <h3>Curated catalogue</h3>
+          <p>A small number of carefully chosen brands, with real space to showcase each product and each supplier.</p>
+        </div>
+        <div class="card">
+          <h3>Premium positioning</h3>
+          <p>Considered presentation, focused on product value rather than competing on price.</p>
+        </div>
+        <div class="card">
+          <h3>Long-term relationship</h3>
+          <p>We're looking for suppliers to grow with continuously, not single-season arrangements.</p>
+        </div>
+        <div class="card">
+          <h3>Access to the Spanish market</h3>
+          <p>A store designed and operated from Spain, with an initial focus on Spanish customers and room to grow across Europe.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="cta">
+    <div class="wrap">
+      <a class="button" href="mailto:info@rjp.es">Let's talk &mdash; info@rjp.es</a>
+      <p class="small">If you've received our email, this page is part of it. We're happy to answer any questions before taking the next step.</p>
+    </div>
+  </section>
+
+  <footer class="site">
+    <div class="wrap">
+      RJP Outdoor Living &middot; rjp.es &middot; Project in launch phase
+    </div>
+  </footer>
+
+</body>
+</html>

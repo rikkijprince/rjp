@@ -1,0 +1,12 @@
+title: RJP Outdoor Living
+description: "Premium Outdoor Living products, launching soon on Shopify."
+url: "https://rjp.es"
+baseurl: ""
+
+# We use "layout: null" on the pages themselves and write full HTML there,
+# so no theme/layout files are required for this to work on GitHub Pages.
+plugins:
+  - jekyll-relative-links
+
+exclude:
+  - README.md
