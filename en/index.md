@@ -40,7 +40,7 @@ permalink: /en/
     <div class="wrap site-bar">
       <a class="brand" href="{{ '/' | relative_url }}">
         <img src="{{ '/assets/img/logo.png' | relative_url }}" alt="RJP Outdoor Lifestyle">
-        RJP · OUTDOOR LIFESTYLE
+        RJP Outdoor Lifestyle | Premium Products for Outdoor Spaces
       </a>
       <div class="lang-switch">
         <a href="{{ '/' | relative_url }}">Español</a>
@@ -104,4 +104,3 @@ permalink: /en/
 
 </body>
 </html>
-
