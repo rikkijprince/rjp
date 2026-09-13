@@ -10,14 +10,14 @@ permalink: /en/
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>RJP Outdoor Lifestyle | Products for Outdoor Spaces</title>
-  <meta name="description" content="RJP Outdoor Living: a premium online store in the making. We're looking for outdoor furniture and lifestyle brands for a long-term partnership.">
+  <meta name="description" content="RJP Outdoor Lifestyle: a premium online store in the making. We're looking for outdoor furniture and lifestyle brands for a long-term partnership.">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
 
   <header class="site">
     <div class="wrap site-bar">
-      <a class="brand" href="{{ '/' | relative_url }}">RJP · OUTDOOR LIVING</a>
+      <a class="brand" href="{{ '/' | relative_url }}">RJP · OUTDOOR LIFESTYLE</a>
       <div class="lang-switch">
         <a href="{{ '/' | relative_url }}">Español</a>
       </div>
