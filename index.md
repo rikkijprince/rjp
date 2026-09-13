@@ -39,7 +39,7 @@ title: RJP Outdoor Lifestyle | Productos Premium para espacios exteriores
     <div class="wrap site-bar">
       <a class="brand" href="{{ '/' | relative_url }}">
         <img src="{{ '/assets/img/logo.png' | relative_url }}" alt="RJP Outdoor Lifestyle">
-        RJP · OUTDOOR LIFESTYLE
+        RJP Outdoor Lifestyle | Productos Premium para espacios exteriores
       </a>
       <div class="lang-switch">
         <a href="{{ '/en/' | relative_url }}">English</a>
@@ -103,4 +103,3 @@ title: RJP Outdoor Lifestyle | Productos Premium para espacios exteriores
 
 </body>
 </html>
-
