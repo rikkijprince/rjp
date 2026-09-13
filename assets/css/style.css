@@ -34,15 +34,38 @@ header.site {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  gap: 16px;
   padding: 18px 0;
+  flex-wrap: wrap;
 }
 
 .brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
   font-weight: 700;
-  font-size: 1.15rem;
-  letter-spacing: 0.04em;
+  font-size: 0.95rem;
+  letter-spacing: 0.02em;
   color: var(--forest-dark);
   text-decoration: none;
+  line-height: 1.3;
+}
+
+.brand img {
+  height: 36px;
+  width: 36px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+@media (max-width: 560px) {
+  .brand {
+    font-size: 0.8rem;
+  }
+  .brand img {
+    height: 30px;
+    width: 30px;
+  }
 }
 
 .lang-switch a {
