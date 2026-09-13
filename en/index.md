@@ -40,7 +40,7 @@ permalink: /en/
     <div class="wrap site-bar">
       <a class="brand" href="{{ '/' | relative_url }}">
         <img src="{{ '/assets/img/logo.png' | relative_url }}" alt="RJP Outdoor Lifestyle">
-        RJP Outdoor Lifestyle | Premium Products for Outdoor Spaces
+        | Premium Products for Outdoor Spaces
       </a>
       <div class="lang-switch">
         <a href="{{ '/' | relative_url }}">Español</a>
@@ -49,7 +49,7 @@ permalink: /en/
   </header>
 
   <div class="hero wrap">
-    <img src="{{ '/assets/img/outdoor-living-en.png' | relative_url }}" alt="RJP Outdoor Lifestyle — premium outdoor living store project">
+    <img src="{{ '/assets/img/outdoor-living-en.png' | relative_url }}" alt="RJP Outdoor Lifestyle> — premium outdoor living store project">
     <p class="tagline">A premium online store dedicated to Outdoor Living is taking shape — and we're looking for the right suppliers to build it with.</p>
   </div>
 
