@@ -33,7 +33,6 @@ permalink: /en/
   <header class="site">
     <div class="wrap site-bar">
       <a class="brand" href="{{ '/' | relative_url }}">
-        <img src="{{ '/assets/img/logo.png' | relative_url }}" alt="RJP Outdoor Lifestyle">
         Premium Products for Outdoor Spaces
       </a>
       <div class="lang-switch">
