@@ -17,7 +17,7 @@ permalink: /en/
 
   <header class="site">
     <div class="wrap site-bar">
-      <a class="brand" href="{{ '/' | relative_url }}">RJP · OUTDOOR LIFESTYLE</a>
+      <a class="brand" href="{{ '/' | relative_url }}">RJP OUTDOOR LIFESTYLE · PRODUCTS FOR OUTDOOR SPACES</a>
       <div class="lang-switch">
         <a href="{{ '/' | relative_url }}">Español</a>
       </div>
@@ -74,7 +74,7 @@ permalink: /en/
 
   <footer class="site">
     <div class="wrap">
-      RJP Outdoor Lifestyle — Products for Outdoor Spaces &middot; rjp.es &middot; Project in launch phase
+      RJP Outdoor Lifestyle &middot; Products for Outdoor Spaces &middot; rjp.es &middot; Project in launch phase
     </div>
   </footer>
 
