@@ -1,30 +1,29 @@
 ---
 layout: null
-lang: en
-title: RJP Outdoor Lifestyle | Premium Products for Outdoor Spaces
-permalink: /en/
+lang: es
+title: RJP Outdoor Lifestyle | Productos Premium para espacios exteriores
 ---
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>RJP Outdoor Lifestyle | Premium Products for Outdoor Spaces</title>
-  <meta name="description" content="RJP Outdoor Lifestyle: a premium online store in the making. We're looking for outdoor furniture and lifestyle brands for a long-term partnership.">
+  <title>RJP Outdoor Lifestyle | Productos Premium para espacios exteriores</title>
+  <meta name="description" content="RJP Outdoor Lifestyle: una tienda online premium en construcción. Buscamos marcas y fabricantes de mobiliario y productos de exterior para una colaboración a largo plazo.">
 
   <!-- Social preview (Facebook, LinkedIn, WhatsApp, etc.) -->
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://rjp.es/en/">
-  <meta property="og:title" content="RJP Outdoor Lifestyle | Premium Products for Outdoor Spaces">
-  <meta property="og:description" content="A premium online store dedicated to Outdoor Living is taking shape — we're looking for suppliers for a long-term partnership.">
-  <meta property="og:image" content="https://rjp.es/assets/img/outdoor-living-en.png">
-  <meta property="og:locale" content="en_US">
+  <meta property="og:url" content="https://rjp.es/">
+  <meta property="og:title" content="RJP Outdoor Lifestyle | Productos Premium para espacios exteriores">
+  <meta property="og:description" content="Una tienda online premium dedicada al Outdoor Living, en construcción — buscamos proveedores para una colaboración a largo plazo.">
+  <meta property="og:image" content="https://rjp.es/assets/img/outdoor-living-es.png">
+  <meta property="og:locale" content="es_ES">
 
   <!-- Social preview (X/Twitter) -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="RJP Outdoor Lifestyle | Premium Products for Outdoor Spaces">
-  <meta name="twitter:description" content="A premium online store dedicated to Outdoor Living is taking shape — we're looking for suppliers for a long-term partnership.">
-  <meta name="twitter:image" content="https://rjp.es/assets/img/outdoor-living-en.png">
+  <meta name="twitter:title" content="RJP Outdoor Lifestyle | Productos Premium para espacios exteriores">
+  <meta name="twitter:description" content="Una tienda online premium dedicada al Outdoor Living, en construcción — buscamos proveedores para una colaboración a largo plazo.">
+  <meta name="twitter:image" content="https://rjp.es/assets/img/outdoor-living-es.png">
 
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
@@ -33,50 +32,50 @@ permalink: /en/
   <header class="site">
     <div class="wrap site-bar">
       <a class="brand" href="{{ '/' | relative_url }}">
-        RJP Outdoor Lifestyle | Premium Products for Outdoor Spaces
+        RJP Outdoor Lifestyle | Productos Premium para espacios exteriores
       </a>
       <div class="lang-switch">
-        <a href="{{ '/' | relative_url }}">Lo prefiero en español</a>
+        <a href="{{ '/en/' | relative_url }}">I prefer it in English</a>
       </div>
     </div>
   </header>
 
   <div class="hero wrap">
-    <img src="{{ '/assets/img/outdoor-living-en.png' | relative_url }}" alt="RJP Outdoor Lifestyle — premium outdoor living store project">
-    <p class="tagline">A premium online store dedicated to Outdoor Living is taking shape — and we're looking for the right suppliers to build it with.</p>
+    <img src="{{ '/assets/img/outdoor-living-es.png' | relative_url }}" alt="RJP Outdoor Lifestyle — proyecto de tienda premium de exterior">
+    <p class="tagline">Una tienda online premium dedicada al Outdoor Living, en construcción — y buscamos a los proveedores adecuados para construirla juntos.</p>
   </div>
 
   <section class="alt">
     <div class="wrap">
-      <h2>The project</h2>
+      <h2>El proyecto</h2>
       <p class="lead">
-        RJP.es brings together, under one online destination, a carefully curated selection of premium Outdoor Living products: outdoor furniture, textiles, lighting, garden accessories, and everything that turns an outdoor space into a true extension of the home. The store is being built on Shopify, with a curated rather than mass catalogue, and a clear focus on quality, design, and service.
+        RJP.es nace para reunir, bajo un mismo espacio online, una selección cuidada de productos premium de Outdoor Living: mobiliario de exterior, textiles, iluminación, accesorios de jardín y todo lo que convierte un espacio exterior en una extensión real del hogar. La tienda se construirá sobre Shopify, con un catálogo curado en lugar de masivo, y un enfoque claro en calidad, diseño y servicio.
       </p>
       <p class="lead">
-        We're in the launch phase and reaching out directly to a small number of manufacturers and distributors in and around Spain with whom we'd like to build a stable, long-term business relationship — not a one-off collaboration.
+        Estamos en fase de lanzamiento y contactando directamente con un número reducido de fabricantes y distribuidores en España con los que nos gustaría construir una relación comercial estable y a largo plazo, no una colaboración puntual.
       </p>
     </div>
   </section>
 
   <section>
     <div class="wrap">
-      <h2>Why partner with RJP</h2>
+      <h2>Por qué colaborar con RJP</h2>
       <div class="grid">
         <div class="card">
-          <h3>Curated catalogue</h3>
-          <p>A small number of carefully chosen brands, with real space to showcase each product and each supplier.</p>
+          <h3>Catálogo curado</h3>
+          <p>Un número reducido de marcas bien seleccionadas, con espacio real para destacar cada producto y cada proveedor.</p>
         </div>
         <div class="card">
-          <h3>Premium positioning</h3>
-          <p>Considered presentation, focused on product value rather than competing on price.</p>
+          <h3>Posicionamiento premium</h3>
+          <p>Presentación cuidada y enfoque en el valor del producto, no en la competencia por precio.</p>
         </div>
         <div class="card">
-          <h3>Long-term relationship</h3>
-          <p>We're looking for suppliers to grow with continuously, not single-season arrangements.</p>
+          <h3>Relación a largo plazo</h3>
+          <p>Buscamos proveedores con los que crecer de forma continuada, no acuerdos puntuales de una sola temporada.</p>
         </div>
         <div class="card">
-          <h3>Access to the Spanish market</h3>
-          <p>A store designed and operated from Spain, with an initial focus on Spanish customers and room to grow across Europe.</p>
+          <h3>Acceso al mercado español</h3>
+          <p>Una tienda pensada y operada desde España, con foco inicial en el cliente español y proyección europea.</p>
         </div>
       </div>
     </div>
@@ -84,14 +83,14 @@ permalink: /en/
 
   <section class="cta">
     <div class="wrap">
-      <a class="button" href="mailto:me@rikkijprince.com">Let's talk — me@rikkijprince.com</a>
-      <p class="small">We're taking our time choosing RJP's first suppliers. If you think your brand could be a fit, we'd love to hear from you.</p>
+      <a class="button" href="mailto:me@rikkijprince.com">Hablemos — me@rikkijprince.com</a>
+      <p class="small">Estamos seleccionando con calma a los primeros proveedores de RJP. Si creéis que vuestra marca encaja, nos encantaría conoceros.</p>
     </div>
   </section>
 
   <footer class="site">
     <div class="wrap">
-      RJP Outdoor Lifestyle &middot;  Premium Products for Outdoor Spaces &middot;  rjp.es &middot; Project in launch phase
+      RJP Outdoor Lifestyle &middot; Productos Premium para espacios exteriores &middot; rjp.es &middot; Proyecto en fase de lanzamiento
     </div>
   </footer>
 
