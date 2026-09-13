@@ -1,22 +1,46 @@
 ---
 layout: null
 lang: es
-title: RJP Outdoor Lifestyle | Productos para espacios exteriores
+title: RJP Outdoor Lifestyle | Productos Premium para espacios exteriores
 ---
 <!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>RJP Outdoor Lifestyle | Products for Outdoor Spaces</title>
+  <title>RJP Outdoor Lifestyle | Productos Premium para espacios exteriores</title>
   <meta name="description" content="RJP Outdoor Lifestyle: una tienda online premium en construcción. Buscamos marcas y fabricantes de mobiliario y productos de exterior para una colaboración a largo plazo.">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/img/favicon/favicon-32x32.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/img/favicon/favicon-16x16.png' | relative_url }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/img/favicon/apple-touch-icon.png' | relative_url }}">
+  <link rel="icon" href="{{ '/assets/img/favicon/favicon.ico' | relative_url }}">
+
+  <!-- Social preview (Facebook, LinkedIn, WhatsApp, etc.) -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://rjp.es/">
+  <meta property="og:title" content="RJP Outdoor Lifestyle | Productos Premium para espacios exteriores">
+  <meta property="og:description" content="Una tienda online premium dedicada al Outdoor Living, en construcción — buscamos proveedores para una colaboración a largo plazo.">
+  <meta property="og:image" content="https://rjp.es/assets/img/outdoor-living-es.png">
+  <meta property="og:locale" content="es_ES">
+
+  <!-- Social preview (X/Twitter) -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="RJP Outdoor Lifestyle | Productos Premium para espacios exteriores">
+  <meta name="twitter:description" content="Una tienda online premium dedicada al Outdoor Living, en construcción — buscamos proveedores para una colaboración a largo plazo.">
+  <meta name="twitter:image" content="https://rjp.es/assets/img/outdoor-living-es.png">
+
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
 
   <header class="site">
     <div class="wrap site-bar">
-      <a class="brand" href="{{ '/' | relative_url }}">RJP OUTDOOR LIFESTYLE · PRODUCTS FOR OUTDOOR SPACES</a>
+      <a class="brand" href="{{ '/' | relative_url }}">
+        <img src="{{ '/assets/img/logo.png' | relative_url }}" alt="RJP Outdoor Lifestyle">
+        RJP · OUTDOOR LIVING
+      </a>
       <div class="lang-switch">
         <a href="{{ '/en/' | relative_url }}">English</a>
       </div>
@@ -24,7 +48,7 @@ title: RJP Outdoor Lifestyle | Productos para espacios exteriores
   </header>
 
   <div class="hero wrap">
-    <img src="{{ '/assets/img/outdoor-living-es.png' | relative_url }}" alt="RJP Outdoor Living — proyecto de tienda premium de exterior">
+    <img src="{{ '/assets/img/outdoor-living-es.png' | relative_url }}" alt="RJP Outdoor Lifestyle— proyecto de tienda premium de exterior">
     <p class="tagline">Una tienda online premium dedicada al Outdoor Living, en construcción — y buscamos a los proveedores adecuados para construirla juntos.</p>
   </div>
 
@@ -73,7 +97,7 @@ title: RJP Outdoor Lifestyle | Productos para espacios exteriores
 
   <footer class="site">
     <div class="wrap">
-      RJP Outdoor Lifestyle &middot; Productos para espacios exteriores &middot; rjp.es &middot; Proyecto en fase de lanzamiento
+      RJP Outdoor Lifestyle &middot; Productos Premium para espacios exteriores &middot; rjp.es &middot; Proyecto en fase de lanzamiento
     </div>
   </footer>
 
