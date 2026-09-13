@@ -1,7 +1,7 @@
 ---
 layout: null
 lang: es
-title: RJP | Outdoor Living
+title: RJP Outdoor Lifestyle | Productos para espacios exteriores
 ---
 <!DOCTYPE html>
 <html lang="es">
@@ -73,7 +73,7 @@ title: RJP | Outdoor Living
 
   <footer class="site">
     <div class="wrap">
-      RJP Outdoor Living &middot; rjp.es &middot; Proyecto en fase de lanzamiento
+      RJP Outdoor Lifestyle | Productos para espacios exteriores &middot; rjp.es &middot; Proyecto en fase de lanzamiento
     </div>
   </footer>
 
