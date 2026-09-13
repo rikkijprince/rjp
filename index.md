@@ -39,7 +39,7 @@ title: RJP Outdoor Lifestyle | Productos Premium para espacios exteriores
     <div class="wrap site-bar">
       <a class="brand" href="{{ '/' | relative_url }}">
         <img src="{{ '/assets/img/logo.png' | relative_url }}" alt="RJP Outdoor Lifestyle">
-        RJP · OUTDOOR LIVING
+        RJP · OUTDOOR LIFESTYLE
       </a>
       <div class="lang-switch">
         <a href="{{ '/en/' | relative_url }}">English</a>
@@ -48,7 +48,7 @@ title: RJP Outdoor Lifestyle | Productos Premium para espacios exteriores
   </header>
 
   <div class="hero wrap">
-    <img src="{{ '/assets/img/outdoor-living-es.png' | relative_url }}" alt="RJP Outdoor Lifestyle— proyecto de tienda premium de exterior">
+    <img src="{{ '/assets/img/outdoor-living-es.png' | relative_url }}" alt="RJP Outdoor Lifestyle — proyecto de tienda premium de exterior">
     <p class="tagline">Una tienda online premium dedicada al Outdoor Living, en construcción — y buscamos a los proveedores adecuados para construirla juntos.</p>
   </div>
 
@@ -103,3 +103,4 @@ title: RJP Outdoor Lifestyle | Productos Premium para espacios exteriores
 
 </body>
 </html>
+
