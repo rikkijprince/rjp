@@ -8,8 +8,8 @@ title: RJP Outdoor Lifestyle | Productos para espacios exteriores
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>RJP | Outdoor Living</title>
-  <meta name="description" content="RJP Outdoor Living: una tienda online premium en construcción. Buscamos marcas y fabricantes de mobiliario y productos de exterior para una colaboración a largo plazo.">
+  <title>RJP Outdoor Lifestyle | Products for Outdoor Spaces</title>
+  <meta name="description" content="RJP Outdoor Lifestyle: una tienda online premium en construcción. Buscamos marcas y fabricantes de mobiliario y productos de exterior para una colaboración a largo plazo.">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
@@ -73,7 +73,7 @@ title: RJP Outdoor Lifestyle | Productos para espacios exteriores
 
   <footer class="site">
     <div class="wrap">
-      RJP Outdoor Lifestyle | Productos para espacios exteriores &middot; rjp.es &middot; Proyecto en fase de lanzamiento
+      RJP Outdoor Lifestyle — Productos para espacios exteriores &middot; rjp.es &middot; Proyecto en fase de lanzamiento
     </div>
   </footer>
 
