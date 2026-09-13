@@ -19,15 +19,14 @@ permalink: /en/
     <div class="wrap site-bar">
       <a class="brand" href="{{ '/' | relative_url }}">RJP · OUTDOOR LIVING</a>
       <div class="lang-switch">
-        <a href="{{ '/' | relative_url }}">Espa&ntilde;ol</a>
+        <a href="{{ '/' | relative_url }}">Español</a>
       </div>
     </div>
   </header>
 
   <div class="hero wrap">
-    <span class="lang-note">En inglés</span>
-    <img src="{{ '/assets/img/outdoor-living-en.png' | relative_url }}" alt="RJP Outdoor Living \u2014 premium outdoor living store project">
-    <p class="tagline">A premium online store dedicated to Outdoor Living is taking shape \u2014 and we're looking for the right suppliers to build it with.</p>
+    <img src="{{ '/assets/img/outdoor-living-en.png' | relative_url }}" alt="RJP Outdoor Living — premium outdoor living store project">
+    <p class="tagline">A premium online store dedicated to Outdoor Living is taking shape — and we're looking for the right suppliers to build it with.</p>
   </div>
 
   <section class="alt">
@@ -37,7 +36,7 @@ permalink: /en/
         RJP.es brings together, under one online destination, a carefully curated selection of premium Outdoor Living products: outdoor furniture, textiles, lighting, garden accessories, and everything that turns an outdoor space into a true extension of the home. The store is being built on Shopify, with a curated rather than mass catalogue, and a clear focus on quality, design, and service.
       </p>
       <p class="lead">
-        We're in the launch phase and reaching out directly to a small number of manufacturers and distributors in and around Spain with whom we'd like to build a stable, long-term business relationship &mdash; not a one-off collaboration.
+        We're in the launch phase and reaching out directly to a small number of manufacturers and distributors in and around Spain with whom we'd like to build a stable, long-term business relationship — not a one-off collaboration.
       </p>
     </div>
   </section>
@@ -68,8 +67,8 @@ permalink: /en/
 
   <section class="cta">
     <div class="wrap">
-      <a class="button" href="mailto:info@rjp.es">Let's talk &mdash; info@rjp.es</a>
-      <p class="small">If you've received our email, this page is part of it. We're happy to answer any questions before taking the next step.</p>
+      <a class="button" href="mailto:me@rikkijprince.com">Let's talk — me@rikkijprince.com</a>
+      <p class="small">We're taking our time choosing RJP's first suppliers. If you think your brand could be a fit, we'd love to hear from you.</p>
     </div>
   </section>
 
