@@ -11,12 +11,6 @@ title: RJP Outdoor Lifestyle | Productos Premium para espacios exteriores
   <title>RJP Outdoor Lifestyle | Productos Premium para espacios exteriores</title>
   <meta name="description" content="RJP Outdoor Lifestyle: una tienda online premium en construcción. Buscamos marcas y fabricantes de mobiliario y productos de exterior para una colaboración a largo plazo.">
 
-  <!-- Favicon -->
-  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/img/favicon/favicon-32x32.png' | relative_url }}">
-  <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/img/favicon/favicon-16x16.png' | relative_url }}">
-  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/img/favicon/apple-touch-icon.png' | relative_url }}">
-  <link rel="icon" href="{{ '/assets/img/favicon/favicon.ico' | relative_url }}">
-
   <!-- Social preview (Facebook, LinkedIn, WhatsApp, etc.) -->
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://rjp.es/">
@@ -38,7 +32,6 @@ title: RJP Outdoor Lifestyle | Productos Premium para espacios exteriores
   <header class="site">
     <div class="wrap site-bar">
       <a class="brand" href="{{ '/' | relative_url }}">
-        <img src="{{ '/assets/img/logo.png' | relative_url }}" alt="RJP Outdoor Lifestyle">
         RJP Outdoor Lifestyle | Productos Premium para espacios exteriores
       </a>
       <div class="lang-switch">
