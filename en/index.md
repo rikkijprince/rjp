@@ -12,12 +12,6 @@ permalink: /en/
   <title>RJP Outdoor Lifestyle | Premium Products for Outdoor Spaces</title>
   <meta name="description" content="RJP Outdoor Lifestyle: a premium online store in the making. We're looking for outdoor furniture and lifestyle brands for a long-term partnership.">
 
-  <!-- Favicon -->
-  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/img/favicon/favicon-32x32.png' | relative_url }}">
-  <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/img/favicon/favicon-16x16.png' | relative_url }}">
-  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/img/favicon/apple-touch-icon.png' | relative_url }}">
-  <link rel="icon" href="{{ '/assets/img/favicon/favicon.ico' | relative_url }}">
-
   <!-- Social preview (Facebook, LinkedIn, WhatsApp, etc.) -->
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://rjp.es/en/">
@@ -40,7 +34,7 @@ permalink: /en/
     <div class="wrap site-bar">
       <a class="brand" href="{{ '/' | relative_url }}">
         <img src="{{ '/assets/img/logo.png' | relative_url }}" alt="RJP Outdoor Lifestyle">
-        | Premium Products for Outdoor Spaces
+        Premium Products for Outdoor Spaces
       </a>
       <div class="lang-switch">
         <a href="{{ '/' | relative_url }}">Español</a>
