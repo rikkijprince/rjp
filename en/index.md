@@ -1,7 +1,7 @@
 ---
 layout: null
 lang: en
-title: RJP | Outdoor Living
+title: RJP Outdoor Lifestyle | Products for Outdoor Spaces
 permalink: /en/
 ---
 <!DOCTYPE html>
@@ -9,7 +9,7 @@ permalink: /en/
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>RJP | Outdoor Living</title>
+  <title>RJP Outdoor Lifestyle | Products for Outdoor Spaces</title>
   <meta name="description" content="RJP Outdoor Living: a premium online store in the making. We're looking for outdoor furniture and lifestyle brands for a long-term partnership.">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
@@ -74,7 +74,7 @@ permalink: /en/
 
   <footer class="site">
     <div class="wrap">
-      RJP Outdoor Living &middot; rjp.es &middot; Project in launch phase
+      RJP Outdoor Lifestyle — Products for Outdoor Spaces &middot; rjp.es &middot; Project in launch phase
     </div>
   </footer>
 
