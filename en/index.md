@@ -1,7 +1,7 @@
 ---
 layout: null
 lang: en
-title: RJP Outdoor Lifestyle | Products for Outdoor Spaces
+title: RJP Outdoor Lifestyle | Premium Products for Outdoor Spaces
 permalink: /en/
 ---
 <!DOCTYPE html>
@@ -9,15 +9,39 @@ permalink: /en/
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>RJP Outdoor Lifestyle | Products for Outdoor Spaces</title>
+  <title>RJP Outdoor Lifestyle | Premium Products for Outdoor Spaces</title>
   <meta name="description" content="RJP Outdoor Lifestyle: a premium online store in the making. We're looking for outdoor furniture and lifestyle brands for a long-term partnership.">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/img/favicon/favicon-32x32.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/img/favicon/favicon-16x16.png' | relative_url }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/img/favicon/apple-touch-icon.png' | relative_url }}">
+  <link rel="icon" href="{{ '/assets/img/favicon/favicon.ico' | relative_url }}">
+
+  <!-- Social preview (Facebook, LinkedIn, WhatsApp, etc.) -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://rjp.es/en/">
+  <meta property="og:title" content="RJP Outdoor Lifestyle | Premium Products for Outdoor Spaces">
+  <meta property="og:description" content="A premium online store dedicated to Outdoor Living is taking shape — we're looking for suppliers for a long-term partnership.">
+  <meta property="og:image" content="https://rjp.es/assets/img/outdoor-living-en.png">
+  <meta property="og:locale" content="en_US">
+
+  <!-- Social preview (X/Twitter) -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="RJP | Outdoor Lifestyle | Premium Products for Outdoor Spaces">
+  <meta name="twitter:description" content="A premium online store dedicated to Outdoor Living is taking shape — we're looking for suppliers for a long-term partnership.">
+  <meta name="twitter:image" content="https://rjp.es/assets/img/outdoor-living-en.png">
+
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
 
   <header class="site">
     <div class="wrap site-bar">
-      <a class="brand" href="{{ '/' | relative_url }}">RJP OUTDOOR LIFESTYLE · PRODUCTS FOR OUTDOOR SPACES</a>
+      <a class="brand" href="{{ '/' | relative_url }}">
+        <img src="{{ '/assets/img/logo.png' | relative_url }}" alt="RJP Outdoor Lifestyle">
+        RJP · OUTDOOR LIVING
+      </a>
       <div class="lang-switch">
         <a href="{{ '/' | relative_url }}">Español</a>
       </div>
@@ -74,7 +98,7 @@ permalink: /en/
 
   <footer class="site">
     <div class="wrap">
-      RJP Outdoor Lifestyle &middot; Products for Outdoor Spaces &middot; rjp.es &middot; Project in launch phase
+      RJP Outdoor Lifestyle &middot;  Premium Products for Outdoor Spaces &middot;  rjp.es &middot; Project in launch phase
     </div>
   </footer>
 
