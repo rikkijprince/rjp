@@ -36,7 +36,7 @@ permalink: /en/
         Premium Products for Outdoor Spaces
       </a>
       <div class="lang-switch">
-        <a href="{{ '/' | relative_url }}">Español</a>
+        <a href="{{ '/' | relative_url }}">Lu prefiero en español</a>
       </div>
     </div>
   </header>
