@@ -33,7 +33,7 @@ permalink: /en/
   <header class="site">
     <div class="wrap site-bar">
       <a class="brand" href="{{ '/' | relative_url }}">
-        Premium Products for Outdoor Spaces
+        RJP Outdoor Lifestyle | Premium Products for Outdoor Spaces
       </a>
       <div class="lang-switch">
         <a href="{{ '/' | relative_url }}">Cambia a español</a>
