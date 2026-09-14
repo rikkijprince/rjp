@@ -35,7 +35,7 @@ title: RJP Outdoor Lifestyle | Productos Premium para espacios exteriores
         RJP Outdoor Lifestyle | Productos Premium para espacios exteriores
       </a>
       <div class="lang-switch">
-        <a href="{{ '/en/' | relative_url }}">I prefer it in English</a>
+        <a href="{{ '/en/' | relative_url }}">Switch to English</a>
       </div>
     </div>
   </header>
